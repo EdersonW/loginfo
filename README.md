@@ -7,10 +7,10 @@ Para instalar a aplicação, siga as instruções abaixo:
 composer install
 ```
 
--- Criar banco de dados:
-Nome: loginfo
-Charset: UTF8 - utf8_unicode_ci
-Database: MySQL
+-- Criar banco de dados:</br>
+Nome: loginfo </br>
+Charset: UTF8 - utf8_unicode_ci</br>
+Database: MySQL</br>
 
 -- Iniciar a migração utilizando Phinx
 ```bash
