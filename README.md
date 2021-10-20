@@ -1,4 +1,4 @@
-# TESTE DE APTIDÃO EDERSON WILLERS
+# TESTE DE APTIDÃO 
 
 Para instalar a aplicação, siga as instruções abaixo:
 
